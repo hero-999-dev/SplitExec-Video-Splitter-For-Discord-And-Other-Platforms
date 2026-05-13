@@ -46,6 +46,8 @@ Install: Download `SplitExec_Setup.exe` from **Releases**, run it, click Install
 
 For help & requests: hero999help@outlook.com
 
+<img width="872" height="682" alt="image" src="https://github.com/user-attachments/assets/325a139e-3f2d-40b9-8bd3-49e84728b890" />
+
 Developer's Note
 
 I built this because Discord's 25 MB upload cap (and even the 500 MB Nitro
